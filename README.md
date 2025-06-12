@@ -1,16 +1,23 @@
-# azure-vnet-webapp-project
-Azure VNet and Web App deployment project for portfolio
-
 # Azure Virtual Network and Web App Deployment
 
-This project demonstrates creating a virtual network and deploying a simple web app in Microsoft Azure.
+This project demonstrates how to create a virtual network and deploy a simple web app in Microsoft Azure.
 
-## Skills demonstrated:
+## 🔧 Skills Demonstrated:
 - Azure Virtual Network setup
 - Subnet and Network Security Groups configuration
 - Azure App Service deployment
-- Basic testing and validation
+- Connectivity testing and security basics
+- Basic project planning
 
-## Project plan:
-See the documentation folder for the project plan and timeline.
+## 📂 Project Structure:
+- `README.md` – Project summary and overview
+- `documentation/` – Project plan and notes (coming soon)
+- `scripts/` – Deployment scripts (coming soon)
 
+## 📅 Timeline:
+- Planning: ✅
+- Azure resource creation: ⏳
+- Deployment: ⏳
+- Documentation: ⏳
+
+Stay tuned for updates!
